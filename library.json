@@ -1,7 +1,7 @@
 {
   "title": "Font Awesome",
   "contentType": "Font",
-  "majorVersion": 3,
+  "majorVersion": 4,
   "minorVersion": 1,
   "patchVersion": 0,
   "runnable": 0,
@@ -10,7 +10,7 @@
   "author": "Dave Gandy",
   "preloadedCss": [
     {
-      "path": "FontAwesome.css"
+      "path": "font-awesome.css"
     }
   ]
 }
