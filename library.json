@@ -10,7 +10,7 @@
   "author": "Dave Gandy",
   "preloadedCss": [
     {
-      "path": "font-awesome.min.css"
+      "path": "h5p-font-awesome.min.css"
     }
   ]
 }
